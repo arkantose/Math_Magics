@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5749132271370661309
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5749132271370661311}
+  - component: {fileID: 9056743877640700572}
+  m_Layer: 0
+  m_Name: CursorManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5749132271370661311
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5749132271370661309}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9056743877640700572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5749132271370661309}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb3f5f0dda830a1418eab16a237c38cd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cursorArrow: {fileID: 2800000, guid: c7a70c53080644146bb73886dedefef1, type: 3}
+  cursorArrowUpdate: {fileID: 2800000, guid: 5d919fb0851c7984d9e7d6f66596c8c4, type: 3}
+  _clickSpell:
+  - {fileID: 5490932304436623558, guid: 27eb836cdac08a64ca5d2dea34aeb1a3, type: 3}
+  - {fileID: 2360166771231855307, guid: e9103200b06eca2498b8e7194932973b, type: 3}
+  - {fileID: 3903770876093832773, guid: 9e6926ed59e3e8a45913d7687cb459be, type: 3}
+  - {fileID: 6090757379633156720, guid: 2e0d89a60bd2f7542b953e8a017651f4, type: 3}
+  - {fileID: 15628617399432448, guid: 58c86f27a53241a4d8d99493ffc3f9d3, type: 3}
+  - {fileID: 3438907677853468997, guid: 37ca68d2ad40b634389614087849dca9, type: 3}
+  _clickClip: {fileID: 8300000, guid: b4f2fd0bd7730f94a9447e6efd790373, type: 3}

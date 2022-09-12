@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5acae673b5dd82941866a0f0bc10a9e2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Naluka
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 019f3011d484d664389a2d477abc0d91, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
